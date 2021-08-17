@@ -1,12 +1,12 @@
-## rymenship component library
+## rymen_UI component library
 
 ### 使用
 
 ```javascript
 // 加载样式
-import "rymenship/dist/index.css";
+import "rymen_UI/dist/index.css";
 // 引入组件
-import { Button } from "rymenship";
+import { Button } from "rymen_UI";
 ```
 
 ### 使用技术栈
